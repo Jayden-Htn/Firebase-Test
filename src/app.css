@@ -1,0 +1,50 @@
+body, h1, h2 {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+}
+
+h1 {
+    padding: 10px;
+    background-color: blue;
+}
+
+#userList {
+    margin: 0;
+    padding: 0px;
+    width: 150px;
+    float: left;
+    border: 1px solid #ccc;
+}
+
+#userList h2 {
+    padding: 10px;
+    margin: 0;
+    background-color: #eee;
+}
+
+#userList li {
+    padding: 5px 10px;
+    border-top: 1px solid black;
+    cursor: pointer;
+    color: #333;
+    font-style: italic;
+}
+
+#userList li:hover {
+    background-color: #eee;
+}
+
+#userDetail {
+    float: left;
+    width: 150px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
