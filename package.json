@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Jayden-Htn/Firebase-Test/issues"
   },
-  "homepage": "https://github.com/Jayden-Htn/Firebase-Test#readme"
+  "homepage": "https://github.com/Jayden-Htn/Firebase-Test#readme",
+  "dependencies": {
+    "firebase": "^9.12.1"
+  }
 }
