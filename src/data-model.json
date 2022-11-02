@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+        "username": "Stevester",
+        "email": "stevie5@gmail.com",
+        "password": "stewha9/*"
+        },
+        {
+            "username": "DanUI",
+            "email": "dui10star@gmail.com",
+            "password": "swaggyd10/*"
+        },
+        {
+            "username": "Jihanhan",
+            "email": "Jihhiscool@gmail.com",
+            "password": "tcjihhiscool/*"
+        }
+
+    ]
+}
